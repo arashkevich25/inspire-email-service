@@ -1,0 +1,4 @@
+region   = "eu-north-1"
+bucket   = "states-nonprod"
+key      = "services-aws/email-service.tfstate"
+role_arn = ""
